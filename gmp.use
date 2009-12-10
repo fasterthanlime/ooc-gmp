@@ -1,0 +1,4 @@
+Name: GMP bindings
+Description: GNU MP bignum library
+Libs: -lgmp
+SourcePath: .
